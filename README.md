@@ -1,4 +1,4 @@
-# FactorioModdingSeries
+# Factorio Modding Series
 
 This github repository is a collection of my code and notes from my online tutorial series for modding the video game Factorio (2020).
 
