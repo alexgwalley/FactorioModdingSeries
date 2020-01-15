@@ -1,0 +1,16 @@
+{
+	*"name": "mod-name", //<- must match folder {mod-name} portion
+	*"version": "0.0.1",
+	*"title": "The title when selecting mod in mod panel",
+	*"author": "WalleyMods",
+	$*"factorio_version": "0.17", // <- must be major factorio game factorio_version
+	"contact": "email or way to get contacted", //^(Cannot be like 0.17.79)^
+	"homepage": "where to be found on the internet",
+	"description": "A short description of what this does.",
+	"dependencies": ["mod-name-a", "? optional-dependency", "! incompatible",
+					"mod-name-b < 0.2.1"]// <- works for all comparison operators
+}
+
+* -> for a minimal info.json file
+
+$ -> version naming convention: "main.major.minor" -> "0.17.78"

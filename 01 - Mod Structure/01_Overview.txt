@@ -1,0 +1,10 @@
+
+Episode 01 - Basic Mod Structure 
+
+What we will accomplish:
+- A better understanding of Factorio's Mod Structure
+- A basic understanding of Factorio's Data-Lifecycle (how it loads mods)
+- Create a very basic mod
+- How to add our new mod to our game
+- Where to find your mod in-game
+- Common errors and where to find them

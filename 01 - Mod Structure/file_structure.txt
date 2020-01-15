@@ -1,0 +1,27 @@
+Folder Name Format: {mod-name}_{version} (Example: "newMod_0.0.1")
+
+Files:
+*	- info.json
+	- thumbnail.png -- (Ideally 144x144px)
+	- changelog.txt -- (Version history of mod to show in mod browser)
+$*	- settings.lua -- (settings-updates.lua) (settings-final-fixes.lua)
+$*	- data.lua -- (data-updates.lua) (data-final-fixes.lua)
+$*	- control.lua
+
+Sub Folders:
+	- Locale -- (Defines translations)
+	- Scenarios
+	- Campaigns
+	- Tutorials
+	- Migrations -- (Handles prototype changes between versions) 
+
+
+For more info on Mod Structure:
+   @https://wiki.factorio.com/Tutorial:Mod_structure
+
+* -> Where the heavy lifting is done
+
+$ -> Find more info on the Data Life-Cycle:
+	@https://lua-api.factorio.com/latest/Data-Lifecycle.html
+	In offline docs:
+	../Steam/steamapps/common/Factorio/doc-html/Data-Lifecycle.html
