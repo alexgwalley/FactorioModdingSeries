@@ -1,0 +1,11 @@
+
+Episode 02 - Custom Commands 
+
+What we will accomplish:
+	- Learn about the LuaCommandProcessor in the Factorio API
+	- Using commands to access LuaGameScript through commands
+	- Slight Mod Structure review by making our own mod
+	- Testing our mod
+	- Where to find potential errors
+
+	
