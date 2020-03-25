@@ -1,0 +1,9 @@
+{
+	"name": "youtube", 
+	"version": "0.0.4",
+	"title": "Modding with Youtube",
+	"author": "WalleyMods",
+	"factorio_version": "0.17", 
+	"contact": "@WalleyMods on youtube", 
+	"description": "This is a demo mod for the amazing new modders out there"
+}

@@ -1,0 +1,8 @@
+
+04 - Creating new prototypes
+What we will cover:
+	- How to link up an event handler to our custom function
+	- Testing in-game
+	- Raising your own event
+
+	
