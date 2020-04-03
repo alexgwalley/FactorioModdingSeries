@@ -1,0 +1,6 @@
+
+06 - Configuration Settings
+What we will cover:
+	- Setting table: how to define, access, and redefine in control phase
+
+	
